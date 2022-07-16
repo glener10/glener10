@@ -1,7 +1,7 @@
 <h2 align="center">Who is Glener?</h2>
 
 - 👋 Hi, I’m Glener Pizzolato
-- 🌱 I have a Bachelor's Degree in Computer Science from the Universidade Federal do Pampa, campus Alegrete-RS.
+- 🌱 I have a Bachelor's Degree in Computer Science from the 'Universidade Federal do Pampa, campus Alegrete-RS'.
 - 📫 How to reach me: glenerpizzolato@gmail.com
 
 
