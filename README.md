@@ -6,9 +6,8 @@
 
 
 ### Skills
-- 🔭 Specialties: React-Typescript, JavaScript, CSS, Java, C, C++, Python, Parallel Programming CPU/GPU (OpenMP, OpenACC, CUDA), Linux, Git, Scrum, PHP (Yii), SQL and LaTeX.
+- 🔭 Specialties: Nest, TypeScript, JavaScript, React, CSS, HTML, Java, Git, Scrum, PHP (Yii) and SQL.
 - 💬 Personal Skills: Dedicated, Proactive, Organized, Committed to Deliverables and Communicative for Teamwork.
-- 🧩 Contact with Programming Languages: React-Native, Nest, Fortran, HTML, Flutter and VBA
 
 ### Tools
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
