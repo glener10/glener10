@@ -1,7 +1,7 @@
 <h2 align="center">Who is Glener?</h2>
 
 - 👋 Hi, I’m Glener Pizzolato
-- 🌱 I have a Bachelor's Degree in Computer Science from the 'Universidade Federal do Pampa, campus Alegrete-RS'.
+- 🌱 I have a Bachelor's Degree in Computer Science from the 'Universidade Federal do Pampa, campus Alegrete-RS' and I started my Master's degree in 2024.
 - 📫 How to reach me: glenerpizzolato@gmail.com
 
 
@@ -24,7 +24,8 @@
 <code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ADisccEuZ0X-Bt7ju9embfnI7Zr_cgUy29foeFM&s=0"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 <h1 align="center">🤲</h1>
 <p align="center">
