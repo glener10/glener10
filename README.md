@@ -28,9 +28,26 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 <h1 align="center">🤲</h1>
-<p align="center">
-<a href="mailto:glenerpizzolato@gmail.com">Email to Glener</a>
-</p>
+
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/glenerpizzolato">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=282828" target="_blank"/>
+  </a>
+  &nbsp;
+  <a href="mailto:glenerpizzolato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+  </a>
+</div>
+
+<h3 align="center">
+  <img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;SHOW &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>
+</h3>
+
+<h4 align="center">
+  <a href="https://github.com/glener10?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 
 <div align="center">
