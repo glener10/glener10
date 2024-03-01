@@ -29,8 +29,6 @@
 
 <h1 align="center">🤲</h1>
 
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/glenerpizzolato">
     <img src="https://img.shields.io/badge/LinkedIn%20-%0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=282828" target="_blank"/>
@@ -41,14 +39,11 @@
   </a>
 </div>
 
+<hr>
+
 <h3 align="center">
-  <img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;SHOW &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>
+  <img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;STATS&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>
 </h3>
-
-<h4 align="center">
-  <a href="https://github.com/glener10?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
 
 <div align="center">
   <a href="https://github.com/glener10">
@@ -56,5 +51,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glener10&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<hr>
+
+<h4 align="center">
+  <a href="https://github.com/glener10?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
+</h4>
   
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
