@@ -49,8 +49,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glener10&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<hr>
-
 <h4 align="center">
   <a href="https://github.com/glener10?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
