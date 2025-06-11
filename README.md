@@ -6,26 +6,20 @@
 
 
 ### Skills
-- 🔭 Specialties: Nest, TypeScript, JavaScript, React, CSS, HTML, Java, Git, Scrum, PHP (Yii) and SQL.
-- 💬 Personal Skills: Dedicated, Proactive, Organized, Committed to Deliverables and Communicative for Teamwork.
+
+🔭 Solid experience with Typescript, payment gateways, chatbots and various projects, with experience in systems design and software architecture.
+
+💬 Other skills include Docker, Google Cloud (Cloud Tasks, Pub/Sub, Schedulers, GKE, Cloud Run, Datastore), IaC with Terraform, SQL and NoSQL databases, CI/CD automation, Git (Git Flow, Trunk Based, One Flow), observability with Grafana, multi-level testing (unit, integration, E2E), Scrum and Kanban, Domain-Driven Design principles, Clean Architecture and SOLID. I have also had extensive contact with Java, PHP and React, in addition to having some projects with Go and Python.
 
 ### Tools
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="45" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="45" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png"></code>
-<code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ADisccEuZ0X-Bt7ju9embfnI7Zr_cgUy29foeFM&s=0"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/glenerpizzolato">
