@@ -4,7 +4,6 @@
 - 🌱 I have a Bachelor's Degree in Computer Science from the 'Universidade Federal do Pampa, campus Alegrete-RS' and I started my Master's degree in 2024.
 - 📫 How to reach me: glenerpizzolato@gmail.com
 
-
 ### Skills
 
 🔭 Solid experience with Typescript, payment gateways, chatbots and various projects, with experience in systems design and software architecture.
@@ -12,6 +11,7 @@
 💬 Other skills include Docker, Google Cloud (Cloud Tasks, Pub/Sub, Schedulers, GKE, Cloud Run, Datastore), IaC with Terraform, SQL and NoSQL databases, CI/CD automation, Git (Git Flow, Trunk Based, One Flow), observability with Grafana, multi-level testing (unit, integration, E2E), Scrum and Kanban, Domain-Driven Design principles, Clean Architecture and SOLID. I have also had extensive contact with Java, PHP and React, in addition to having some projects with Go and Python.
 
 ### Tools
+
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -33,13 +33,8 @@
 
 <hr>
 
-<h3 align="center">
-  <img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;STATS&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>
-</h3>
-
 <div align="center">
   <a href="https://github.com/glener10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glener10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glener10&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
